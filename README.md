@@ -6,9 +6,6 @@
 <a href="mailto:kevynsilveira0610@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
 </a>
-
-![KevynSilveira GitHub stats](https://github-readme-stats.vercel.app/api?username=KevynSilveira&show_icons=true&theme=radical)
-
 <!--Top linguagens, esta com bug no git-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSilveira)](https://github.com/anuraghazra/github-readme-stats)-->
 
